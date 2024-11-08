@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "gateway_spawners:block/gateway_spawner"
+    }
+  }
+}

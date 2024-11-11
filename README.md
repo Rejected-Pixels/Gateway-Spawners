@@ -1,25 +1,11 @@
+# Gateway Spawners
 
-Installation information
-=======
+Enhance your Minecraft experience with **Gateway Spawners**, an exciting addon for the [Gateways To Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity) mod! This mod introduces a powerful block that allows you to summon gateways, providing seamless integration with the existing Gateways To Eternity content.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## Features:
+- **Summon Gateways**: Easily summon gateways from the Gateways To Eternity mod using the new Gateway Spawner block.
+/gateway_spawers command provided to give player a spawner block with specific gate selected. Without command a random gate will be selected when placed.
+- **Seamless Integration**: Specifically designed to work flawlessly with the Gateways To Eternity mod, offering a smooth and immersive experience.
+- **Modpack Friendly**: Ideal for modpack developers looking to incorporate gateway mechanics into their custom structures.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Bring new dimensions of adventure to your Minecraft world with Gateway Spawners, and expand the possibilities of the Gateways To Eternity mod!
